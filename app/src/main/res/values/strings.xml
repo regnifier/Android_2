@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Crime</string>
+    <string name="crime_title_hint">Enter a title for the crime</string>
+    <string name="crime_title">Title</string>
+    <string name="crime_details">Details</string>
+    <string name="crime_solved_lable">Solved</string>
+    <string name="new_crime">New Crime</string>
+    <string name="crime_person_text">Choose Person</string>
+    <string name="crime_report_text">Send Report</string>
+    <string name="crime_report">%1$s! Дата долга: %2$s. %3$s, %4$s </string>
+    <string name="crime_report_solved">Долг выплачен</string>
+    <string name="crime_report_unsolved">Гони бабки</string>
+    <string name="crime_report_no_suspect">Все порешали.</string>
+    <string name="crime_report_suspect">Должник - %s.</string>
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="send_report">Send crime report via</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
